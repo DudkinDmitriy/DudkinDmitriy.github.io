@@ -1,1 +1,5 @@
-# DudkinDmitriy.github.io
+# Дмитрий Дудкин
+
+Мои дз по верстке
+
+* [Lesson 7](/lesson_7/)
