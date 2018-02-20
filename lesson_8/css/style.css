@@ -1,0 +1,24 @@
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-size: 36pt;
+	font-family: Arial;
+}
+
+.header .box {
+	margin: 30px 0;
+	
+}
+
+img {
+  position: relative;
+  bottom: 0;
+}
+
+.img {
+	vertical-align: middle;
+	height: 140px;
+}
